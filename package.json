@@ -1,0 +1,27 @@
+{
+  "name": "studytypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiiba-t/studyTypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiiba-t/studyTypeScript/issues"
+  },
+  "homepage": "https://github.com/shiiba-t/studyTypeScript#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.182",
+    "@types/node": "^17.0.30",
+    "lodash": "^4.17.21",
+    "typescript": "^4.6.4"
+  }
+}
